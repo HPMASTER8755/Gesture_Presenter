@@ -1,23 +1,23 @@
 # Gesture_Presenter
 A brief description of your project, including its purpose and main features.
 
-##Table of Contents
+## Table of Contents
 Installation
 Usage
 Features
 
-##Installation
+## Installation
 Step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed, and specify any external libraries or frameworks required.
 ### pip install opencv-python
 ### pip install mediapipe
 
 
-##Usage
+## Usage
 Provide instructions on how to use your project. Include examples of basic usage and any relevant command-line options or arguments.
 ### python main.py 
 
 
-##Features
+## Features
 List the main features and functionalities of your project. You can also mention any notable limitations or known issues.
 
 Feature 1: Using thumb, you can move presentation to the previous page .
